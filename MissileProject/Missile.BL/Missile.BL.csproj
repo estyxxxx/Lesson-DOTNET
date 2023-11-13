@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Missile.DAL\Missile.DAL.csproj" />
+    <ProjectReference Include="..\MissileModel\MissileModel.csproj" />
+    <ProjectReference Include="..\MissileProject\MissileProject.csproj" />
+    <ProjectReference Include="..\MissileService\MissileService.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,4 @@
+C:\Users\user\Documents\תכנות\MissileProject\Missile.DAL\obj\Debug\net6.0\Missile.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\תכנות\MissileProject\Missile.DAL\obj\Debug\net6.0\Missile.DAL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\תכנות\MissileProject\Missile.DAL\obj\Debug\net6.0\Missile.DAL.AssemblyInfo.cs
+C:\Users\user\Documents\תכנות\MissileProject\Missile.DAL\obj\Debug\net6.0\Missile.DAL.csproj.CoreCompileInputs.cache
