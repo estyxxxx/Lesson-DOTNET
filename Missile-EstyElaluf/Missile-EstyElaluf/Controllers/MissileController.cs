@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Missile_EstyElaluf.Model;
-using Missile_EstyElaluf.Serivce;
+﻿using api_model;
+using api_service;
+using Microsoft.AspNetCore.Mvc;
 
-namespace Missile_EstyElaluf.Controllers
+namespace Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]

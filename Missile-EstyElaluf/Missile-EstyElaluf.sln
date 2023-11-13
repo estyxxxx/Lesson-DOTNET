@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Missile-EstyElaluf", "Missile-EstyElaluf\Missile-EstyElaluf.csproj", "{6777BABB-F8B4-4326-9342-2DF5D80408A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Missile-EstyElaluf\Api.csproj", "{6777BABB-F8B4-4326-9342-2DF5D80408A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-model", "api-model\api-model.csproj", "{15A62684-6423-4372-9063-79433B01CDDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-service", "api-service\api-service.csproj", "{66F04C3C-8299-40F4-885A-EBBF224BDA91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6777BABB-F8B4-4326-9342-2DF5D80408A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6777BABB-F8B4-4326-9342-2DF5D80408A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6777BABB-F8B4-4326-9342-2DF5D80408A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A62684-6423-4372-9063-79433B01CDDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A62684-6423-4372-9063-79433B01CDDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A62684-6423-4372-9063-79433B01CDDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A62684-6423-4372-9063-79433B01CDDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F04C3C-8299-40F4-885A-EBBF224BDA91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F04C3C-8299-40F4-885A-EBBF224BDA91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F04C3C-8299-40F4-885A-EBBF224BDA91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F04C3C-8299-40F4-885A-EBBF224BDA91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

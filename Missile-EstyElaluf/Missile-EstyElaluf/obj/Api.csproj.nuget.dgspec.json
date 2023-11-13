@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GIT\\Missile-EstyElaluf\\Missile-EstyElaluf\\Missile-EstyElaluf.csproj": {}
+    "C:\\Users\\user\\Documents\\GIT\\Missile-EstyElaluf\\Missile-EstyElaluf\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GIT\\Missile-EstyElaluf\\Missile-EstyElaluf\\Missile-EstyElaluf.csproj": {
+    "C:\\Users\\user\\Documents\\GIT\\Missile-EstyElaluf\\Missile-EstyElaluf\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GIT\\Missile-EstyElaluf\\Missile-EstyElaluf\\Missile-EstyElaluf.csproj",
-        "projectName": "Missile-EstyElaluf",
-        "projectPath": "C:\\Users\\user\\Documents\\GIT\\Missile-EstyElaluf\\Missile-EstyElaluf\\Missile-EstyElaluf.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GIT\\Missile-EstyElaluf\\Missile-EstyElaluf\\Api.csproj",
+        "projectName": "Api",
+        "projectPath": "C:\\Users\\user\\Documents\\GIT\\Missile-EstyElaluf\\Missile-EstyElaluf\\Api.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\user\\Documents\\GIT\\Missile-EstyElaluf\\Missile-EstyElaluf\\obj\\",
         "projectStyle": "PackageReference",

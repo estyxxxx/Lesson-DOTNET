@@ -1,4 +1,4 @@
-﻿namespace Missile_EstyElaluf.Model
+﻿namespace api_model
 {
     public class Missile
     {
